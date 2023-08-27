@@ -82,6 +82,7 @@ h1 {
 .types span {
   padding: 5px;
   border-radius: 50px;
+  color: white;
 }
 
 .hp span,

@@ -9,6 +9,7 @@ export default function Search({ handleSubmit }) {
 
   function submit(e) {
     e.preventDefault();
+
     handleSubmit(input);
   }
 
